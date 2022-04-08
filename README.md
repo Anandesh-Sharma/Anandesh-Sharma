@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Anandesh-Sharma/Anandesh-Sharma/main/github_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/Anandesh-Sharma/Anandesh-Sharma/main/github_header.png "Header")](https://anandesh.dev/)
 
 # Namaste, deviyon or sajjano! 🙏🙏🙏
 
