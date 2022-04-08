@@ -1,6 +1,13 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Anandesh Sharma and I'm a software developer engineer. I'm from India, and currently working at Treez.inc. You can find me on [![LinkedIn][3.2]][3].
+[![Header](https://raw.githubusercontent.com/Anandesh-Sharma/Anandesh-Sharma/main/github_header.png "Header")](https://martinheinz.dev/)
 
+# Namaste, deviyon or sajjano! 🙏🙏🙏
+
+My name is Anandesh Sharma and I'm a software developer engineer. I'm from India, and currently working at Treez.inc. You can find me on [![LinkedIn][1.1]][1].
+
+- 🔭 I’m currently working in Python/Node/React
+- 🌱 I’m currently learning Distributed Systems
+- 😄 Other Names : hash97
+- ⚡ Fun fact: It took less code to send to space than to run a smartphone.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -22,17 +29,18 @@ My name is Anandesh Sharma and I'm a software developer engineer. I'm from India
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anandesh-Sharma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anandesh's GitHub Stats" />
 </a>
 
-<!--
-**Anandesh-Sharma/Anandesh-Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- links to social media icons -->
 
-Here are some ideas to get you started:
+[1.1]: https://raw.githubusercontent.com/Anandesh-Sharma/Anandesh-Sharma/main/linkedin.png
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- links to your social media accounts -->
+[1]: https://www.linkedin.com/in/Anandesh-Sharma/
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
