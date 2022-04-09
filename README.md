@@ -9,7 +9,7 @@ My name is Anandesh Sharma and I'm a software developer engineer. I'm from India
 - 😄 Other Names : hash97
 - ⚡ Fun fact: It took less code to send to space than to run a smartphone.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
