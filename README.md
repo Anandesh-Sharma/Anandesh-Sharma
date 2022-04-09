@@ -2,7 +2,7 @@
 
 # Namaste, deviyon or sajjano! 🙏🙏🙏
 
-My name is Anandesh Sharma and I'm a software developer engineer. I'm from India, and currently working at Treez.inc. You can find me on [![LinkedIn][1.1]][1].
+My name is Anandesh Sharma and I'm a software developer engineer. I'm from India, and currently working at Treez.inc. You can find me on [![LinkedIn][1].
 
 - 🔭 I’m currently working in Python/Node/React
 - 🌱 I’m currently learning Distributed Systems
