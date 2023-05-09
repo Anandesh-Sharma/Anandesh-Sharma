@@ -2,7 +2,7 @@
 
 # Namaste, deviyon or sajjano! 🙏🙏🙏
 
-My name is Anandesh Sharma and I'm a Senior Software Engineer. I'm from India, and currently working at Compliance Innovation. You can find me on [LinkedIn](https://www.linkedin.com/in/Anandesh-Sharma/), [stackoverflow](https://stackoverflow.com/users/8449770/anandesh-sharma).
+My name is Anandesh Sharma and I'm a Senior Software Engineer. I'm from India, and currently working at Compliance Innovation. You can find me on [LinkedIn](https://www.linkedin.com/in/Anandesh-Sharma/), [stackoverflow](https://stackoverflow.com/users/8449770/anandesh-sharma), [LeetCode](https://leetcode.com/anandesh/).
 
 - 🔭 I’m currently working in Python/Node/React
 - 🌱 I’m currently learning Distributed Systems
