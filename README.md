@@ -22,16 +22,8 @@ My name is Anandesh Sharma and I'm a Senior Software Engineer. I'm from India, a
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
 
-<a href="https://github.com/Anandesh-Sharma/Anandesh-Sharma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandesh-Sharma&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Anandesh-Sharma/Anandesh-Sharma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anandesh-Sharma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anandesh's GitHub Stats" />
-</a>
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
